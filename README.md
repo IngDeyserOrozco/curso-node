@@ -12,6 +12,5 @@ para poder verlos funcionando aparte
 <span>Se debe ejecutar este comando</span>
 
 ´´´
-    npm install
-
+npm install
 ´´´
