@@ -7,3 +7,10 @@ a lo largo de todo el curso </p>
 
 Cabe resaltar que aquellos Proyectos que se puedan hacer uso de GitHub Pages tendran su repositorio aparte,
 para poder verlos funcionando aparte
+
+
+<span>Se debe ejecutar este comando</span>
+´´´
+    npm install
+    
+´´´
